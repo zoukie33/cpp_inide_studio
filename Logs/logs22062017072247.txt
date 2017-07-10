@@ -1,0 +1,303 @@
+Starting logs.
+[35m[Main][0m[33m - [0m[36mInitialisation des boutons.[0m
+[35m[Map][0m[33m - [0m[36mMap : map2.txt[0m
+[35m[Main][0m[33m - [0m[36mInitialisation des Players.[0m
+[35m[Main][0m[33m - [0m[36mInitialisation du device.[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBomb exploded.[0m
+[35m[Empty][0m[33m - [0m[36mDeleting _cont bomb[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[Player][0m[33m - [0m[36mA player just dropped a Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36minit Bomb.[0m
+[35m[BBomb][0m[33m - [0m[36mAffichage Bomb xd.[0m
+[35m[Empty][0m[33m - [0m[36mAdding bomb to empty[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBoom ?[0m
+[35m[BBomb][0m[33m - [0m[36mBomb exploded.[0m
+[35m[Empty][0m[33m - [0m[36mDeleting _cont bomb[0m
